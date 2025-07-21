@@ -58,11 +58,8 @@ git push origin {생성한 브랜치}
 > ex. git commit -m "day1 : BOJ[1759] 암호 만들기"
 
 6. **Pull request 생성**
-- Pull Request Name : {본인의 깃허브 이름} : [{주차명}]
+- Pull Request Name : {본인의 깃허브 이름} : [{날짜명}]
   > ex. kw601 : [day1]
-- Content : 문제명, 시간복잡도, 시간 및 메모리 캡처
-- Label : 플랫폼, 언어
-- Assignees : 본인
 
 7. **스터디 회의 후, merge**
 
