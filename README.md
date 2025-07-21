@@ -38,15 +38,15 @@ git clone https://github.com/kw601/ssafy_algo.git
 - branch는 일별로 생성한다.
 
 ```bash
-git checkout -b {본인의 깃허브 이름}/{주차명}
+git checkout -b {본인의 깃허브 이름}/{날짜명}
 ```
-> ex. git checkout -b SUbbb/1week
+> ex. git checkout -b kw601/day1
 
 4. **문제별 디렉토리 생성 및 코드, README 저장**
 ```
 {플랫폼}/[{문제 번호}] {문제명}/본인의 깃허브 이름
 ```
-> ex. BOJ/[1759] 암호 만들기/SUbbb
+> ex. BOJ/[1759] 암호 만들기/kw601
 
 5. **Push**
 ```bash
