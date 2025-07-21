@@ -2,8 +2,17 @@
 
 ## 👥 참여자
 
+> [김민상](https://github.com/minsang-dev)
+> 
 > [나경원](https://github.com/kw601)
+>
 > [노소연](https://github.com/soyeon-noh)
+>
+> [은태현](https://github.com/Taeyum)
+>
+> [이영은](https://github.com/youngeunee)
+>
+> [이영주](https://github.com/iceQuakka)
 
 ## 💁‍♂️ 스터디 규칙
 ### 문제 풀이
