@@ -3,7 +3,7 @@
 ## 👥 참여자
 
 > [나경원](https://github.com/kw601)
-> 
+> [노소연](https://github.com/soyeon-noh)
 
 ## 💁‍♂️ 스터디 규칙
 ### 문제 풀이
