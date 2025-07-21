@@ -28,14 +28,14 @@
 ### 커밋 규칙
 1. **Repository clone**
 ```bash
-git clone https://github.com/PiroCAU/algoStudy.git
+git clone https://github.com/kw601/ssafy_algo.git
 ```
 
 2. **Repository open**
 - vscode or IntelliJ
 
 3. **본인의 Branch 생성**
-- branch는 주차별로 생성한다.
+- branch는 일별로 생성한다.
 
 ```bash
 git checkout -b {본인의 깃허브 이름}/{주차명}
@@ -51,15 +51,15 @@ git checkout -b {본인의 깃허브 이름}/{주차명}
 5. **Push**
 ```bash
 git add .
-git commit -m "{주차명} : {플랫폼}[{문제번호}] {문제명}"
+git commit -m "{날짜명} : {플랫폼}[{문제번호}] {문제명}"
 git push origin {생성한 브랜치}
 ```
 
-> ex. git commit -m "1week : BOJ[1759] 암호 만들기"
+> ex. git commit -m "day1 : BOJ[1759] 암호 만들기"
 
 6. **Pull request 생성**
 - Pull Request Name : {본인의 깃허브 이름} : [{주차명}]
-  > ex. SUbbb : [1week]
+  > ex. kw601 : [day1]
 - Content : 문제명, 시간복잡도, 시간 및 메모리 캡처
 - Label : 플랫폼, 언어
 - Assignees : 본인
