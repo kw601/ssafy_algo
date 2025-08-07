@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="BOJ/[1546] 평균/kw601"/>
+	<classpathentry kind="src" path="BOJ/[2577] 숫자의 개수/soyeon-noh"/>
+	<classpathentry kind="src" path="BOJ/[10814] 나이순 정렬/soyeon-noh"/>
+	<classpathentry kind="src" path="BOJ/[1920] 수 찾기"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
