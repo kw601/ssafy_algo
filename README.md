@@ -4,7 +4,7 @@
 
 > [김민상](https://github.com/minsang-dev)
 >
-> [나경원](https://github.com/kw601)
+> [나경원](https://github.com/nkw601)
 >
 > [노소연](https://github.com/soyeon-noh)
 >
